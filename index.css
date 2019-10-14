@@ -1,0 +1,36 @@
+header{
+    font-size: 22px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+hr{
+    width: 25%;
+    text-align: left;
+
+}
+.title{
+    text-align: center;
+    color: black;
+}
+.links{
+    text-align: center;
+}
+.links1{
+    text-align: left;
+    font-size: 25px;
+}
+.sections{
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    background-color: black;
+}
+.sections:hover{
+    background-color: green;
+    color: white;
+}
+.sections1{
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: green;
+}
