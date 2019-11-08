@@ -1,0 +1,91 @@
+body{
+    background-color: #2B2D42;
+}
+header{
+    font-size: 22px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title{
+    text-align: center;
+    color: white;
+}
+.links{
+    text-align: center;
+}
+.links1{
+    text-align: left;
+    font-size: 25px;
+}
+.sections{
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    background-color: black;
+    padding-left: 5%;
+}
+.sections:hover{
+    background-color: purple;
+    color: white;
+}
+.sections1{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 5%;
+}
+a{
+    color: white;
+}
+p{
+    color: white;
+}
+.menu{
+    font-size: 22px;
+    background-color: yellow;
+    color: black;
+    letter-spacing: 5px;
+    padding:8px;
+}
+.menu:hover{
+    background-color: white;
+    color: black;
+}
+.activemenu{
+    font-size: 22px;
+    background-color: white;
+    color: black;
+    letter-spacing: 5px;
+    padding:8px;
+}
+h2{
+    color: white;
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+h1{
+    color: white;
+    letter-spacing: 5px;
+}
+.small{
+    width: 20%;
+}
+p{
+    font-size: 22px;
+}
+.underline{
+    text-decoration: underline;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+.indent{
+    padding-left: 7%;
+    font-size: 18px;
+}
+.middlemenu{
+    text-align: center;
+}
+.lowkey{
+    color: black;
+}
+.lowkey:hover{
+    color: black;
+    background-color: white;
+}
